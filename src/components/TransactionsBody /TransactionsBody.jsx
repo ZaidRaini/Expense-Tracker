@@ -1,7 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react';
 //styles
-import "./TransactionsBody.css"
-//components
+import './TransactionsBody.css'
 import TransactionBar from '../TransactionBar/TransactionBar';
 import PageNavigateBar from './PageNavigateBar';
 //contexts

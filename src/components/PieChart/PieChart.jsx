@@ -6,7 +6,7 @@ import "./PieChart.css";
 import PieLabel from '../PieLabel/PieLabel';
 //contexts
 import { TransactionsContext } from '../../Contexts/AllContexts';
-import useChartData from '../customHooks/useChartData';
+import useChartData from '../customHooks /useChartData';
 
 
 const COLORS = ['#FF9304', '#A000FF', '#FDE006'];
